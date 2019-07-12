@@ -1,0 +1,6 @@
+node_modules/
+solution/server/node_modules/
+solution/server/package-lock.json
+solution/server/api/db.json
+solution/.nowignore
+solution/now.json
